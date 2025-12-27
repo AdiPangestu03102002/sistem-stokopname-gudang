@@ -22,4 +22,4 @@ Aplikasi berbasis web untuk mengelola inventaris barang secara digital. Sistem i
 * `/asset` - Kumpulan gambar, logo, dan aset visual lainnya.
 * `/CSS` & `/JS` - File stylesheet dan logika frontend.
 
-project ini dibuat oleh Adi Pangestu
+## 🛠️ PROJECT ADI APANGESTU - 2025
